@@ -162,10 +162,10 @@ public class UIFX extends Application{
                 badHanyuPinyinOutputFormatCombination.printStackTrace();
             } catch (IOException e1) {
                 e1.printStackTrace();
-                Alert alert=new Alert(Alert.AlertType.ERROR,"IO出现错误(错误代码：1");
+
             } catch (ClassNotFoundException e1) {
                 e1.printStackTrace();
-                Alert alert=new Alert(Alert.AlertType.ERROR,"类文件丢失(错误代码：2");
+
             }catch (NullPointerException e1){
                 Alert alert=new Alert(Alert.AlertType.ERROR);
                 alert.setHeaderText("你还没有选中鬼畜明星");
