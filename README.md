@@ -46,3 +46,9 @@
 
 
 
+>![search](https://user-images.githubusercontent.com/53845999/114521044-a008c200-9c74-11eb-98b5-a18886b007de.PNG)<br>
+>![input](https://user-images.githubusercontent.com/53845999/114521070-a5fea300-9c74-11eb-9309-c760efb56273.PNG)<br>
+
+
+
+    本程序依赖于pinyin4j.jar包 来源：https://sourceforge.net/projects/pinyin4j/ 也可在这里下载pinyin4j.zip
