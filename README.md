@@ -18,7 +18,6 @@
 
 下载64kichusearch.zip安装包后解压，点击kichusearch.exe即可使用<br>
 会看到这样子的界面<br>
-![](https://github.com/yyyyyy233/KichuSearch/raw/master/image/yanshi1.png)
 第一次使用时请先刷新<br>
 
 
@@ -29,7 +28,6 @@
 2.选择鬼畜明星后，点击确定<br>
 3.输入你想搜索的内容，点击搜索。<br>
 
-![](https://github.com/yyyyyy233/KichuSearch/raw/master/image/howtouse/search.png)
 
 添加明星/导入素材
 ---
@@ -43,7 +41,8 @@
 >语录2<br>
 >    ...<br>
 <br>
+
 4.在软件内点击刷新，即可搜索<br>
 
-![](https://github.com/yyyyyy233/KichuSearch/raw/master/image/howtouse/input.png)
+
 
